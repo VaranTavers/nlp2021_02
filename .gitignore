@@ -3,4 +3,7 @@
 *.bz2
 *.ipynb
 *.csv
+*.txt
+*.idf
+*.frec
 Cargo.lock
